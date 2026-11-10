@@ -200,7 +200,7 @@ PROYECTO_EDA_PYTHON/
 │   └── processed/
 │       └── df_bc_limpio.csv          # Datos tras la limpieza (37.867 filas)
 ├── docs/
-│   └── Informe_EDA_campana_deposito.docx   # Informe explicativo del análisis
+│   └── Informe_Analisis_EDA.docx   # Informe explicativo del análisis
 ├── images/                           # Gráficos usados en este README
 ├── notebooks/
 │   ├── Analisis_Premilinar_Limpieza.ipynb  # Carga, unión, limpieza y guardado
