@@ -234,7 +234,7 @@ Es un proyecto académico, pero cualquier sugerencia es bienvenida: abre un *iss
 
 - 👤 **Autor:** Adam
 - 🐙 **GitHub:** [AdamTR93](https://github.com/AdamTR93)
-- 💼 **LinkedIn:** *(añade aquí tu enlace)*
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/adamtomrom/)*
 
 ## 📄 Licencia
 
