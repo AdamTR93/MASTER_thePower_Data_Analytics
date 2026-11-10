@@ -1,0 +1,15 @@
+# Ignora el entorno virtual de Python
+.venv/
+env/
+ENV/
+
+# Ignora carpetas de caché de Python
+__pycache__/
+*.pyc
+
+# Ignora los datos en bruto
+data/raw/
+
+# Archivos ocultos del sistema
+.DS_Store
+Thumbs.db
