@@ -27,7 +27,7 @@ El análisis está planteado desde el punto de vista del **departamento de marke
 
 Es un análisis exploratorio y descriptivo, **sin modelos de machine learning**, hecho como proyecto del *Master in Data Analytics* de The Power Business School.
 
-> 📄 El informe explicativo completo está en [`docs/Informe_EDA_campana_deposito.docx`](docs/Informe_EDA_campana_deposito.docx).
+> 📄 El informe explicativo completo está en [`docs/Informe_Analisis_EDA.docx`](docs/Informe_Analisis_EDA.docx).
 
 ## 📑 Tabla de contenidos
 
@@ -218,7 +218,7 @@ Los notebooks usan rutas relativas (`../data/...`), así que hay que ejecutarlos
 
 1. Abre `notebooks/Analisis_Premilinar_Limpieza.ipynb` y ejecútalo de arriba abajo (*Run All*). Lee los datos de `data/raw/` y genera `data/processed/df_bc_limpio.csv`.
 2. Abre `notebooks/EDA.ipynb` y ejecútalo igual. Lee el CSV limpio y usa las funciones de `src/soporte.py`.
-3. Lee el informe en `docs/Informe_EDA_campana_deposito.docx`.
+3. Lee el informe en `docs/Informe_Analisis_EDA.docx`.
 
 ## 🚀 Próximos pasos
 
