@@ -7,9 +7,6 @@ ENV/
 __pycache__/
 *.pyc
 
-# Ignora los datos en bruto
-data/raw/
-
 # Archivos ocultos del sistema
 .DS_Store
 Thumbs.db
